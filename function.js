@@ -16,4 +16,11 @@ function celsiusToFahrenheit(celcius) {
 console.log(celsiusToFahrenheit(32) + '°F')
 
 
+function hoursToMinutes(hour){
+        const convertToHoursMinutes = hour *60
+    return convertToHoursMinutes
+}
+console.log(hoursToMinutes(1))
+
+
 
