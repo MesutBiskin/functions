@@ -12,6 +12,7 @@ function celsiusToFahrenheit(celcius) {
     //return celcius * 9 / 5 + 32
     return temperature_in_faherenheit
 
+
 }
 console.log(celsiusToFahrenheit(32) + '°F')
 
@@ -21,6 +22,7 @@ function hoursToMinutes(hour){
     return convertToHoursMinutes
 }
 console.log(hoursToMinutes(1))
+
 
 
 

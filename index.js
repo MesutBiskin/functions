@@ -13,5 +13,9 @@ function add(num1,num2){
     // console.log("Num1 :",num1 , "Num2 :",num2)
     return(num1+num2)
 }
+
 add(1,2)
 console.log(add(3,5))
+
+
+
